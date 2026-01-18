@@ -1,0 +1,4 @@
+- Sales performance varies significantly across countries, with a few countries contributing the majority of total revenue.
+- Monthly sales trends show clear seasonality, with higher sales observed during specific months.
+- A small number of products account for a large portion of total revenue, indicating a strong product concentration.
+- Country-level analysis highlights differences in purchasing behavior across regions.

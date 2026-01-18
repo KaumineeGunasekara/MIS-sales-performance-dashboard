@@ -1,22 +1,20 @@
-# MIS-sales-performance-dashboard
+# MIS Sales Performance Analysis
 
 ## Overview
-This project demonstrates an MIS and data analytics solution using
-transactional retail data. The objective is to prepare MIS reports
-and dashboards to support business decision-making.
+This project demonstrates a basic MIS and data analytics workflow using
+transactional retail sales data. The focus is on preparing MIS reports
+to analyze sales performance across countries and products.
 
 ## Dataset
-Online retail transactional dataset containing invoice-level sales data.
+Online retail transactional dataset containing invoice-level sales data,
+including product, quantity, price, date, and country information.
 
 ## Tools Used
-- MS Excel (Data cleaning, advanced formulas, Pivot Tables)
-- Power BI (Dashboard creation)
+- MS Excel (Data cleaning, Revenue calculation, Pivot Tables)
+- GitHub
 
-## Key Analysis
-- Country-wise revenue performance
-- Top-selling products by revenue
-- Monthly sales trend analysis
+## Analysis Performed
+- Monthly Sales Trend by Country
+- Top 10 Products by Revenue
+- Country-wise Sales Performance
 
-## Insights
-- Identified top-performing countries and products.
-- Observed seasonal sales trends across months.
